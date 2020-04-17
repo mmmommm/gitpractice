@@ -7,5 +7,5 @@
 [qiita](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)  
   
 [slideshare](https://www.slideshare.net/kotas/git-15276118)  
-
-
+  
+[ブログ](https://www.atmarkit.co.jp/ait/articles/1703/29/news021.html)  
