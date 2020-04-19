@@ -16,7 +16,7 @@
 作業して`git add, commit, push`する  
 このpushをした時にリモートリポジトリにブランチが作成される  
   
-###devへのマージ  
+### devへのマージ  
   
 `git checkout dev`  
   
@@ -33,7 +33,7 @@
 リモートブランチを削除  
 *エラーが出たときは`git remote prune origin`  
   
-###masterへのマージ  
+### masterへのマージ  
   
 ```
 git checkout master  
@@ -42,7 +42,7 @@ git push origin master
 ```
 *devブランチは消さなくていい  
   
-##参考URL  
+## 参考URL  
   
 [qiita](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)  
 [リモートブランチと追跡ブランチは違うって話](https://www.kaeruspoon.net/articles/1078) 
