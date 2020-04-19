@@ -44,13 +44,13 @@ git push origin master
   
 ## 参考URL  
   
-[qiita](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)  
+[git機能一覧](https://qiita.com/gold-kou/items/7f6a3b46e2781b0dd4a0#%E3%81%AF%E3%81%98%E3%82%81%E3%81%AB)  
 [リモートブランチと追跡ブランチは違うって話](https://www.kaeruspoon.net/articles/1078)  
 [一連の流れについて分かり易かった](https://www.kaeruspoon.net/articles/1078)  
 [上流ブランチについて](http://www-creators.com/archives/4931)  
   
-[slideshare](https://www.slideshare.net/kotas/git-15276118)  
+[こわくないgit](https://www.slideshare.net/kotas/git-15276118)  
   
 [ブログ](https://www.atmarkit.co.jp/ait/articles/1703/29/news021.html)  
   
-[youtube](https://www.youtube.com/watch?v=wlY8YG-eB8E)
+[けんたさんのやつ](https://www.youtube.com/watch?v=wlY8YG-eB8E)
