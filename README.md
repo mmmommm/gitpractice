@@ -1,6 +1,34 @@
 # gitpractice  
   
 自分自身がrebaseやstash、mergeなどについてわかっていないため擬似チーム開発環境を作って練習するために作成した練習用リポジトリです。  
+自分が開発する時の順番みたいなのを忘れた時に見返すためにも作りました。  
+間違っていたらプルリクを下さると、、、  
+  
+## 一連の流れ  
+  
+ローカルにdevブランチ、リモートにremotes/origin/devブランチを作って紐づけておく  
+  
+`git checkout -b ブランチ名`  
+ローカルにブランチを作成してそのブランチに移動  
+*この時のブランチ名はgit-flowに従う  
+[git-flowの説明](https://qiita.com/KosukeSone/items/514dd24828b485c69a05)  
+  
+作業して`git add, commit, push`する  
+  
+`git checkout dev`  
+  
+`git merge ブランチ名`  
+そのブランチでpushしたのをdevにマージ  
+  
+`git pusn`  
+取り込んだマージをリモートに送信  
+  
+`git branch -d ブランチ名`  
+ローカルのブランチを削除  
+  
+`git pusn origin :ブランチ名`  
+リモートブランチを削除  
+*エラーが出たときは`git remote prune origin`  
   
 ##参考URL  
   
