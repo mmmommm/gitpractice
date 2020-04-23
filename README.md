@@ -8,6 +8,18 @@
   
 ローカルにdevブランチ、リモートにremotes/origin/devブランチを作って紐づけておく  
   
+`git checkout -b dev`  
+devブランチを作ってそこに移動  
+  
+`git branch -a`  
+ブランチができているかを確認  
+  
+`git push -u origin dev`  
+リモートに作成  
+  
+`git branch -a`  
+できているかを確認  
+  
 `git checkout -b ブランチ名`  
 ローカルにブランチを作成してそのブランチに移動  
 *この時のブランチ名はgit-flowに従う(そんな大した規模じゃないので下の説明ではreleaseとかは切ってないです)  
