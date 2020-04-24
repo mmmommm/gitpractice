@@ -60,6 +60,7 @@ git push origin master
 [リモートブランチと追跡ブランチは違うって話](https://www.kaeruspoon.net/articles/1078)  
 [一連の流れについて分かり易かった](https://www.kaeruspoon.net/articles/1078)  
 [上流ブランチについて](http://www-creators.com/archives/4931)  
+[masterブランチに間違えてcommitしてしまった時の対処法](https://qiita.com/rh_/items/2498e326810888b11415)  
   
 [こわくないgit](https://www.slideshare.net/kotas/git-15276118)  
   
